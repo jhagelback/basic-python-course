@@ -1,7 +1,6 @@
-# basic-python-course
 Material på svenska för en grundläggande kurs i Python-programmering.
 
-## Uppgifter - Värden och Variabler
+## Uppgifter - Variabler
 https://coursepress.lnu.se/projekt/grundlaggande-programmering/uppgift-1/
 
 ## Uppgifter - Villkor och Upprepning
